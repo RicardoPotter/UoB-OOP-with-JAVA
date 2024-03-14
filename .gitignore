@@ -1,6 +1,6 @@
 .gitignore
 *.un~
 *.~
-*.md
+*.md~
 *.gitignore
 .gitignore~
