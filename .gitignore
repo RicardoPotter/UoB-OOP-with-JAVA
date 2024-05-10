@@ -1,6 +1,24 @@
-.gitignore
 *.un~
 *.~
 *.md~
-*.gitignore
-.gitignore~
+
+# For opensource JAVA project
+*.class
+
+# Ignore Intellij IDEA related files
+*.iml
+*.ipr
+*.iws
+**/.idea/
+
+# Ignore Gradle related files
+**/.gradle/
+**/build/
+
+# Ignore the compiled files
+**/target/
+
+# For macOS devices sync editing 
+.DS_Store
+
+
